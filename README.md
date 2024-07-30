@@ -1,4 +1,3 @@
-TroyBookManagement
 TroyBookManagement is a web application designed to manage books and library members efficiently. It provides a platform for librarians to keep track of book borrowings, member information, and library inventory.
 
 Features
